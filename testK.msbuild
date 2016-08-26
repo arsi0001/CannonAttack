@@ -1,0 +1,46 @@
+<Project ToolsVersion="4.0" DefaultTargets="RunUnitTests" xmlns="http://schemas.microsoft.com/developer/msbuild/2003"> 
+
+  <!-- Falls Eigenschaften nicht gesetzt -> Release & Any CPU als default-->
+  <PropertyGroup>
+	<Configuration Condition=" '$(Configuration)' == '' ">Release</Configuration>
+	<BuildPlatform Condition=" '$(BuildPlatform)' == '' ">Any CPU</BuildPlatform>
+  </PropertyGroup>
+  
+  <ItemGroup>
+    <!-- AblageOrdner -->
+	<BuildArtifactsDir Include="BuildArtifacts" />
+	<!-- AblageOrdner für NUnit -->
+	<NunitDir Include="BuildArtifacts\NUnitExe" />
+	
+	<SolutionFile Include="MyCannonAttack.sln" />
+	<NUnitConsole Include="BuildArtifacts\NUnitExe\nunit3-console.exe" />
+	<UnitTestsDLL Include="BuildArtifacts\MyCannonAttack_Test.dll" />
+  </ItemGroup>
+  
+  <!-- Erstelle Ordner BuildArtifacts -->
+  <Target Name="Init" DependsOnTargets="Clean">
+	<MakeDir Directories="@(BuildArtifacts)" />
+  </Target>
+  
+  <!-- Entferne Ordner BuildArtifacts(+Inhalt) -->
+  <Target Name="Clean">
+	<RemoveDir Directories="@(BuildArtifactsDir)" />
+  </Target>
+  
+  <!-- Entferne alle NUnit-Dateien -->
+  <Target Name="CleanAfter">
+	<RemoveDir Directories="@(NunitDir)" />
+  </Target>
+
+  <Target Name="Compile" DependsOnTargets="Init">
+	<MSBuild Projects="@(SolutionFile)" Targets="Rebuild" Properties="OutDir=%(BuildArtifactsDir.FullPath);Configuration=$(Configuration);Platform=$(BuildPlatform)" />
+  </Target>
+  
+  <Target Name="RunUnitTests" DependsOnTargets="Compile">
+         <!-- /result dient der Umbennenung, /work dient der Umplatzierung der XML -->
+         <Exec Command='"@(NUnitConsole)" "@(UnitTestsDLL)" --result=console-test.xml --work=BuildArtifacts' />
+		 <CallTarget Targets="CleanAfter" />
+  </Target>
+  
+</Project>
+ 

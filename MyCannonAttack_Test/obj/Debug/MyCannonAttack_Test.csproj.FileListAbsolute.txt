@@ -1,0 +1,9 @@
+c:\users\a.simon\documents\visual studio 2015\Projects\MyCannonAttack\MyCannonAttack_Test\obj\Debug\MyCannonAttack_Test.csprojResolveAssemblyReference.cache
+c:\users\a.simon\documents\visual studio 2015\Projects\MyCannonAttack\MyCannonAttack_Test\bin\Debug\MyCannonAttack_Test.dll
+c:\users\a.simon\documents\visual studio 2015\Projects\MyCannonAttack\MyCannonAttack_Test\bin\Debug\MyCannonAttack_Test.pdb
+c:\users\a.simon\documents\visual studio 2015\Projects\MyCannonAttack\MyCannonAttack_Test\bin\Debug\MyCannonAttack.exe
+c:\users\a.simon\documents\visual studio 2015\Projects\MyCannonAttack\MyCannonAttack_Test\bin\Debug\nunit.framework.dll
+c:\users\a.simon\documents\visual studio 2015\Projects\MyCannonAttack\MyCannonAttack_Test\bin\Debug\MyCannonAttack.pdb
+c:\users\a.simon\documents\visual studio 2015\Projects\MyCannonAttack\MyCannonAttack_Test\bin\Debug\nunit.framework.xml
+c:\users\a.simon\documents\visual studio 2015\Projects\MyCannonAttack\MyCannonAttack_Test\obj\Debug\MyCannonAttack_Test.dll
+c:\users\a.simon\documents\visual studio 2015\Projects\MyCannonAttack\MyCannonAttack_Test\obj\Debug\MyCannonAttack_Test.pdb

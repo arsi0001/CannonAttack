@@ -1,0 +1,16 @@
+C:\Users\a.simon\Documents\Visual Studio 2015\Projects\MyCannonAttack\BuildArtifacts\MyCannonAttack_Test.dll
+C:\Users\a.simon\Documents\Visual Studio 2015\Projects\MyCannonAttack\BuildArtifacts\MyCannonAttack_Test.pdb
+C:\Users\a.simon\Documents\Visual Studio 2015\Projects\MyCannonAttack\MyCannonAttack_Test\obj\Release\MyCannonAttack_Test.csprojResolveAssemblyReference.cache
+C:\Users\a.simon\Documents\Visual Studio 2015\Projects\MyCannonAttack\MyCannonAttack_Test\obj\Release\MyCannonAttack_Test.dll
+C:\Users\a.simon\Documents\Visual Studio 2015\Projects\MyCannonAttack\MyCannonAttack_Test\obj\Release\MyCannonAttack_Test.pdb
+C:\Users\a.simon\Documents\Visual Studio 2015\Projects\MyCannonAttack\BuildArtifacts\NUnitExe\Mono.Cecil.dll
+C:\Users\a.simon\Documents\Visual Studio 2015\Projects\MyCannonAttack\BuildArtifacts\NUnitExe\nunit-agent-x86.exe
+C:\Users\a.simon\Documents\Visual Studio 2015\Projects\MyCannonAttack\BuildArtifacts\NUnitExe\nunit-agent.exe
+C:\Users\a.simon\Documents\Visual Studio 2015\Projects\MyCannonAttack\BuildArtifacts\NUnitExe\nunit.engine.api.dll
+C:\Users\a.simon\Documents\Visual Studio 2015\Projects\MyCannonAttack\BuildArtifacts\NUnitExe\nunit.engine.api.xml
+C:\Users\a.simon\Documents\Visual Studio 2015\Projects\MyCannonAttack\BuildArtifacts\NUnitExe\nunit.engine.dll
+C:\Users\a.simon\Documents\Visual Studio 2015\Projects\MyCannonAttack\BuildArtifacts\NUnitExe\nunit3-console.exe
+C:\Users\a.simon\Documents\Visual Studio 2015\Projects\MyCannonAttack\BuildArtifacts\NUnitExe\nunit-agent-x86.exe.config
+C:\Users\a.simon\Documents\Visual Studio 2015\Projects\MyCannonAttack\BuildArtifacts\NUnitExe\nunit-agent.exe.config
+C:\Users\a.simon\Documents\Visual Studio 2015\Projects\MyCannonAttack\BuildArtifacts\NUnitExe\nunit.engine.addins
+C:\Users\a.simon\Documents\Visual Studio 2015\Projects\MyCannonAttack\BuildArtifacts\NUnitExe\nunit3-console.exe.config

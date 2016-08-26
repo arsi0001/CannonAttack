@@ -1,0 +1,6 @@
+C:\Users\a.simon\Documents\Visual Studio 2015\Projects\MyCannonAttack\BuildArtifacts\MyCannonAttack.exe.config
+C:\Users\a.simon\Documents\Visual Studio 2015\Projects\MyCannonAttack\BuildArtifacts\MyCannonAttack.exe
+C:\Users\a.simon\Documents\Visual Studio 2015\Projects\MyCannonAttack\BuildArtifacts\MyCannonAttack.pdb
+C:\Users\a.simon\Documents\Visual Studio 2015\Projects\MyCannonAttack\MyCannonAttack\obj\Release\MyCannonAttack.csprojResolveAssemblyReference.cache
+C:\Users\a.simon\Documents\Visual Studio 2015\Projects\MyCannonAttack\MyCannonAttack\obj\Release\MyCannonAttack.exe
+C:\Users\a.simon\Documents\Visual Studio 2015\Projects\MyCannonAttack\MyCannonAttack\obj\Release\MyCannonAttack.pdb

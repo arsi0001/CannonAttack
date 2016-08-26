@@ -4,3 +4,6 @@ c:\users\a.simon\documents\visual studio 2015\Projects\MyCannonAttack\MyCannonAt
 c:\users\a.simon\documents\visual studio 2015\Projects\MyCannonAttack\MyCannonAttack\obj\Debug\MyCannonAttack.csprojResolveAssemblyReference.cache
 c:\users\a.simon\documents\visual studio 2015\Projects\MyCannonAttack\MyCannonAttack\obj\Debug\MyCannonAttack.exe
 c:\users\a.simon\documents\visual studio 2015\Projects\MyCannonAttack\MyCannonAttack\obj\Debug\MyCannonAttack.pdb
+C:\Users\a.simon\CannonAttack\MyCannonAttack\bin\Debug\MyCannonAttack.exe.config
+C:\Users\a.simon\CannonAttack\MyCannonAttack\obj\Debug\MyCannonAttack.exe
+C:\Users\a.simon\CannonAttack\MyCannonAttack\obj\Debug\MyCannonAttack.pdb
